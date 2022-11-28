@@ -130,6 +130,7 @@ main {
     font-weight: 400;
     box-shadow: none;
     border: none;
+    cursor: pointer;
 }
 
 .close-popup:hover {
